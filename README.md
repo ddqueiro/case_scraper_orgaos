@@ -32,10 +32,12 @@ Extrair automaticamente o item mais recente de cada órgão regulador, contendo:
 
 ## Estrutura do projeto
 
+```text
 .
 ├── scraper.py
 ├── dados_regulatorios.json
 └── README.md
+```
 
 ---
 
