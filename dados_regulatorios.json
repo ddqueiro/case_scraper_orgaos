@@ -1,0 +1,29 @@
+[
+    {
+        "url_origem": "https://www.sfc.hk/en/News-and-announcements/News",
+        "url_artigo": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR100",
+        "titulo": "SFC welcomes appointment and re-appointment of Non-Executive Directors",
+        "data_publicacao": "26 Jun 2026",
+        "conteudo_principal": "The Securities and Futures Commission (SFC) welcomes the Financial Secretary’s appointment of Mr Bernard Man, SC, and re-appointment of Mr Vincent Chan Chun-hung as Non-Executive Directors, respectively for a term of two years (Note 1). Dr Kelvin Wong, Chairman of the SFC, said: “I am pleased to wel...",
+        "status": "sucesso",
+        "mensagem_erro": null
+    },
+    {
+        "url_origem": "https://www.mas.gov.sg/news/media-releases",
+        "url_artigo": "https://www.mas.gov.sg/news/media-releases/2026/mas-establishes-future-of-finance-institute-to-scale-financial-innovation",
+        "titulo": "MAS Establishes Future of Finance Institute to Scale Financial Innovation",
+        "data_publicacao": "25 Jun 2026",
+        "conteudo_principal": "25 June 2026 MAS Establishes Future of Finance Institute to Scale Financial Innovation Singapore, 25 June 2026…The Monetary Authority of Singapore (MAS) today announced that a Future of Finance Institute (FFI) will be established to accelerate the adoption of new financial technologies and catalyse ...",
+        "status": "sucesso",
+        "mensagem_erro": null
+    },
+    {
+        "url_origem": "https://www.cftc.gov/PressRoom/PressReleases",
+        "url_artigo": "https://www.cftc.gov/PressRoom/PressReleases/9262-26",
+        "titulo": "CFTC, SEC Seek Public Comment on the Harmonization of Portfolio Margining Frameworks | CFTC",
+        "data_publicacao": "06/26/2026",
+        "conteudo_principal": "CFTC, SEC Seek Public Comment on the Harmonization of Portfolio Margining Frameworks June 26, 2026 WASHINGTON — The Commodity Futures Trading Commission and the Securities and Exchange Commission today issued a joint request for public comment on potential approaches to further harmonize regulatory ...",
+        "status": "sucesso",
+        "mensagem_erro": null
+    }
+]
